@@ -11,7 +11,7 @@
 * pi(c) = menor caminho
 * ce = menor caminho para um próximo nó u não explorado
 
-# Primeira Noob
+# Implementação Noob
 
 ![meh](/P2%20-%20Grafos/me%20de%20ibagens/Aula%2012%20-%20Dijkstra%20algo.png)
 
@@ -39,12 +39,23 @@
 
 * Vamos usar uma estrutura de dados mais robusta para armazenar as informações das nossas opções disponíveis ([MinHeap](https://www.youtube.com/watch?v=2DmK_H7IdTo)).
 
+1. Inicializa o heap com o nó escolhido e seu custo incial como 0.
+2. coloca os outros nós com custo infinito (∞)
+3. For each v in G
+
+    4. vizinhos = vizinhos(ExtractMin())
+    5. marca o nó extraído como explorado
+    6. For each v in vizinhos(s)
+
+        6.1. Atualiza o custo do vizinho mais barato 
+
+        6.2. Heapify() 
+
 ![yeah](/P2%20-%20Grafos/me%20de%20ibagens/Aula%2012%20-%20tabela%20de%20complexidades.png)
 
 * **Complexidade** O(mlog(n))
 
 * Dijkstra não funciona com arestas de peso negativo.
-
-* Como resolver isso? -> Bellman-Ford
+    * Como resolver isso? -> Bellman-Ford
 
 * **Putz, na videoaula ele não chegou a fazer a execução usando MinHeap, mas na aula presencial ele fez...**

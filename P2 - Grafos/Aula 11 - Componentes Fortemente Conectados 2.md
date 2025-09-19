@@ -4,7 +4,7 @@
 
 * Os SCC permanecem os mesmos ao calcular o grafo reverso.
 
-* Se um nó fica no ***source node*** de G~, então no grafo reverso Grev ele fica no ***sink node***.
+* Se um nó é o ***source node*** em G~, então no grafo reverso Grev ele é o ***sink node***.
 
 * ***source node*** = nó que não tem arestas chegando nele, ou seja, apenas saem arestas dele.
 * ***sink node*** = nó que não tem arestas saindo dele, ou seja, apenas chegam arestas nele.
@@ -15,7 +15,7 @@
 # Algoritmo de Kosaraju (forma final do algoritmo)
 * **Objetivo:** encontrar todos os componentes fortemente conectados em um grafo direcionado
 Dado um grafo G:
-1. Rode a DFS até o final.
+1. Rode a DFS até o final (anotando pré e post).
 2. Selecione o v com o maior post(v).
 3. Faça o Grev.
 4. Identificou um SCC? Abstraia esse nó do Grev.
