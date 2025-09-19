@@ -31,27 +31,33 @@
 - Aula 10 - SCC 1
     * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%2010%20%2D%20SCC1%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4927ba21%2D7469%2D4569%2D9420%2D5288ebc78986)
     * **Duração:** 44min
-- Aula 11 - SCC 2
-    * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%2011%20%2D%20SCC2%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Edf72a17c%2D71d0%2D4993%2Dbff0%2D2b89eef2f8e6)
-    * **Duração:** 20min
 <br>
-> (Minha foi provar que um grafo era fortemente conectado - Aula 08 -, infelizmente a Lei de Murphy prevaleceu...)
+> (Na minha prova foi provar que um grafo era fortemente conectado - Aula 08 -, infelizmente a Lei de Murphy prevaleceu...)
 
 ## Resumo
 * Nº de aulas: 11
-* Total em minutos: 20 + 44 + 42 + 44 + 26 + 10 + 14 + 09 + 25 + 44 + 53 = 331 minutos
+* Total em minutos: 44 + 42 + 44 + 26 + 10 + 14 + 09 + 25 + 44 + 53 = 311 minutos = 5h11min
 
 ## P2 - Grafos 2
-
+- Aula 11 - SCC 2 (Kosaraju)
+    * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%2011%20%2D%20SCC2%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Edf72a17c%2D71d0%2D4993%2Dbff0%2D2b89eef2f8e6)
+    * **Duração:** 20min
 - Aula 12 - Dijkstra
-    * [Link]()
-    * **Duração:** 
+    * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%2012%20%2D%20Dijkstra%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E418bd0c1%2D5888%2D47ce%2Dbd21%2Dec770cfffce4)
+    * **Duração:** 48min
 - Aula 13 - Prim
-    * [Link]()
-    * **Duração:** 
+    * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%2013%20%2D%20Prim%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec85f82c2%2Dca7d%2D44c0%2Da4f8%2D4852df9ab655)
+    * **Duração:** 45min
 - Aula 14 - Kruskal
-    * [Link]()
-    * **Duração:** 
+    * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%2014%20%2D%20Kruskal%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee15dddb3%2Dfba6%2D4a81%2Da1b5%2D90e01a5e4e57)
+    * **Duração:** 37min
+
+<br>
+> (Na minha prova foi Djikstra em grafo com 8 nós, bem parecido com o exemplo da aula.)
+
+## Resumo
+* Nº de aulas: 4
+* Total em minutos: 20 + 48 + 45 + 37 = 150 minutos = 2h30min
 
 ## P3 - Algoritmos Ambiciosos
 - Aula 15 - Interval Scheduling
