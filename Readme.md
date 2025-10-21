@@ -34,7 +34,7 @@
 <br>
 > (Na minha prova foi provar que um grafo era fortemente conectado - Aula 08 -, infelizmente a Lei de Murphy prevaleceu...)
 
-## Resumo
+### Resumo
 * Nº de aulas: 11
 * Total em minutos: 44 + 42 + 44 + 26 + 10 + 14 + 09 + 25 + 44 + 53 = 311 minutos = 5h11min
 
@@ -55,23 +55,37 @@
 <br>
 > (Na minha prova foi Djikstra em grafo com 8 nós, bem parecido com o exemplo da aula.)
 
-## Resumo
+### Resumo
 * Nº de aulas: 4
 * Total em minutos: 20 + 48 + 45 + 37 = 150 minutos = 2h30min
 
 ## P3 - Algoritmos Ambiciosos
 - Aula 15 - Interval Scheduling
-    * [Link]()
-    * **Duração:** 
+    * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%2015%20%2D%20Interval%20Scheduling%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6f26a336%2D44be%2D4790%2D87a6%2D899dc511153f)
+    * **Duração:** 40min
 - Aula 16 - Interval Partitioning
-    * [Link]()
-    * **Duração:** 
+    * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%2016%20%2D%20Interval%20Partitioning%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E662f8b8e%2D7bc4%2D46fc%2D9373%2D90172becd2c2)
+    * **Duração:** 22min
+- Aula Extra 1 - Knapsack
+    * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%20Extra%201%20%2D%20Knapsack%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3cab2390%2D5190%2D4217%2D8be6%2D8dab6935eedc)
+    * **Duração:** 14min
 - Aula 17 - Scheduling to Minimize Lateness
-    * [Link]()
-    * **Duração:** 
+    * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%2017%20%2D%20Scheduling%20to%20Min%20Lateness%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea03a0003%2D6474%2D4c1d%2Da108%2D26e56bbd5014)
+    * **Duração:** 43min
+- Aula Extra 2 - Algoritmos do Trocador e do Caminhoneiro
+    * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%20Extra%202%20%2D%20Algoritmos%20do%20Trocador%20e%20do%20Caminhoneiro%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E45a7d1c7%2Da322%2D44fa%2Db529%2D5f3c57a8ebac)
+    * **Duração:** 40min
 - Aula 18 - Huffman Codes
-    * [Link]()
-    * **Duração:** 
+    * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%2018%20%2D%20C%C3%B3digo%20de%20Huffman%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec95fe837%2D77c0%2D4dac%2Dbb62%2D43307665544a)
+    * **Duração:** 50min
+
+### Resumo
+
+* Nº de aulas: 6
+* Total em minutos: 40 + 22 + 14 + 43 + 40 + 50 = 209 minutos = 3h29min
+
+<br>
+> (Na minha prova foi Interval Scheduling, bem parecido com o exemplo da aula.)
 
 ## P4 - Dividir e Conquistar
 - Aula 19 - Dividir e Conquistar
