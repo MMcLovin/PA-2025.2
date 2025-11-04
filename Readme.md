@@ -89,14 +89,28 @@
 
 ## P4 - Dividir e Conquistar
 - Aula 19 - Dividir e Conquistar
-    * [Link]()
-    * **Duração:** 
+    * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%2019%20%2D%20Dividir%20e%20Conquistar%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Edf41b5c2%2D17e4%2D4c03%2Daf6a%2D77b6dfe4d333)
+    * **Duração:** 35min
 - Aula 20 - Contagem de Inversões
-    * [Link]()
-    * **Duração:** 
+    * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%2020%20%2D%20Contagem%20de%20Invers%C3%B5es%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E312dffdd%2Dc99a%2D4e05%2D8a6f%2D4ea65f8df8f8)
+    * **Duração:** 25min
 - Aula 21 - Mediana das Medianas
-    * [Link]()
-    * **Duração:** 
+    * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%2021%20%2D%20Mediana%20das%20Medianas%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E226d1878%2D0e56%2D4f87%2D913a%2D8a476b2803ff)
+    * **Duração:** 35min
+- Aula Extra 3 - Analise de Complexidade de Algoritmos Recursivos
+    * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%20Extra%203%20%2D%20Analise%20de%20Complexidade%20de%20Algoritmos%20Recursivos%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4bdd64e7%2Da143%2D4ad0%2Da46d%2Da04af5005ba6)
+    * **Duração:** 53min
+- Aula Extra 4 - Par de Pontos Mais Proximos
+    * [Link](https://unbbr-my.sharepoint.com/personal/serrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fserrano%5Funb%5Fbr%2FDocuments%2FAula%20Extra%204%20%2D%20Par%20de%20Pontos%20Mais%20Proximos%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E10223587%2D46b2%2D4c1d%2Db4b5%2Dffa221219375)
+    * **Duração:** 1h19min
+
+### Resumo
+
+* Nº de aulas: 6
+* Total em minutos: 35 + 25 + 35 + 53 + 79 = 227 minutos = 3h47min
+
+<br>
+> (MLK, VAI TOMAR NO CU, SER BURRO É UM FARDO PESADO DEMAIS. Minha prova foi Mediana das Medianas, coisa mais fácil impossível, porém eu simplesmente buguei quando |L| == |B| e comecei a pensar q tinha errado em algum passo anterior, sendo q era só continuar NORMALMENTE e, quando o conjunto de números a serem ordenados fosse menor que 5 (caso trivial), era só pegar o k-ésimo elemento ordenado. VSF, burro pra krl)
 
 ## P5 - Programação Dinâmica
 - Aula 23 - Weighted Interval Scheduling
